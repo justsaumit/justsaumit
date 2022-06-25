@@ -17,6 +17,6 @@ alot of projects that share my same view
 - 📫 How to reach me ...
 email me at justsaumit@protonmail.com
 or message me @[keybase](https://keybase.io/justsaumit)
-- Encrypt/Verify messages using my public PGP key:  
+- Encrypt/Verify messages using my public OpenPGP key:  
 ![pgp](https://img.shields.io/keybase/pgp/justsaumit?color=red&label=gpg)
 
