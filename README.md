@@ -1,7 +1,7 @@
 ### 👋 Hi, my name is Saumit
 
 - 😁 I am a free, libre and open source software enthusiast whos passionate about computer science and technology. 
-- 🧐I have keen interest in the inner workngs of security systems✍️ and networking🌐; learning why & how they're more secure🔒 than their predecessors and how can they be made less prone to vulnerabilities🔐 
+- 🧐I have keen interest in the inner workings of security systems✍️ and networking concepts🌐; learning why & how they're more secure🔒 than their predecessors and how can they be made less prone to vulnerabilities🔐 
 
 - 🌱 I’m currently learning:
   - Development in C, Python and Rust👨‍💻.
