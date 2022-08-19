@@ -24,3 +24,7 @@ or message me on [matrix](https://matrix.to/#/@justsaumit:matrix.org)
 or [keybase](https://keybase.io/justsaumit)
 - Encrypt/Verify messages using my public OpenPGP key:  
 [![pgp](https://img.shields.io/keybase/pgp/justsaumit?color=red&label=gpg&logo=gnu)](https://github.com/justsaumit.gpg)
+
+- Most used Language stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justsaumit&theme=tokyonight)
