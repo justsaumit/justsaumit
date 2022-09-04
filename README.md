@@ -14,7 +14,7 @@
 
 - git repos apart from github
   - [codeberg](https://codeberg.org/justsaumit)
-  - [self-hosted](git.draconyan.xyz)
+  - [self-hosted](https://git.draconyan.xyz)
 
 - 💞️ I’m looking to collaborate on ...
 alot of projects that share my same view
